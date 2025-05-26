@@ -9,6 +9,8 @@ Restaurant review dataset (from Kaggle): 1000 records, 2 fields
 2. BERT (Bidirectional Encoder Representations from Transformers)
 3. Gradio
 
+![Transformers](/transformer.png)
+
 ## Implementation Steps
 1. Data Pre-processing
 2. Naïve Bayesian model for Sentiment Analysis
