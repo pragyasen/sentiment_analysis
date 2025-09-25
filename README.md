@@ -9,7 +9,8 @@ Restaurant review dataset (from Kaggle): 1000 records, 2 fields
 ## Concepts Covered
 1. Naïve Bayesian
 2. BERT (Bidirectional Encoder Representations from Transformers)
-3. Gradio
+3. Pre-training & Fine-tuning
+4. Gradio
 
 ![Transformers](/transformer.png)
 
