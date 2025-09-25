@@ -30,4 +30,4 @@ BERT outperformed Naive Bayes in terms of accuracy and context understanding, es
 ### Gradio Visualization
 ![BERT Result](/gradio.png)
 
-Developed an interactive Gradio app to visualize predictions. First implemented this for the pre-trained sentiment analysis model from Hugging Face (already fine-tuned on a general dataset like IMDb). Then, implemented this for the model fine-tuned using our training set.
+Developed an interactive Gradio app to visualize predictions. First implemented this for the pre-trained sentiment analysis model from Hugging Face (already pre-trained on a general dataset like IMDb). Then, implemented this for the model fine-tuned using our training set.
