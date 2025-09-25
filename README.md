@@ -1,6 +1,8 @@
 # Sentiment Analysis
 Performed sentiment analysis on restaurant reviews using two different approaches: a traditional machine learning model (Naive Bayes) and a modern deep learning model (BERT). Provided an interactive visualization using Gradio for end-user interpretation.
 
+Also checkout my Medium article on the topic : https://medium.com/@pragya_sen1/rnns-walked-so-bert-and-gpt-could-talk-d9354acbcb96
+
 ## Dataset used
 Restaurant review dataset (from Kaggle): 1000 records, 2 fields
 
@@ -14,9 +16,10 @@ Restaurant review dataset (from Kaggle): 1000 records, 2 fields
 ## Implementation Steps
 1. Data Pre-processing
 2. Naïve Bayesian model for Sentiment Analysis
-3. BERT model for Sentiment Analysis
-4. Comparison of performance metrics
-5. Gradio for Visual representation
+3. Pre-trained BERT model for Sentiment Analysis
+4. Fine-tuned BERT model for Sentiment Analysis
+5. Comparison of performance metrics
+6. Gradio for Visual representation
 
 ## Results
 ### Naïve Bayesian
