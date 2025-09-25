@@ -17,3 +17,17 @@ Restaurant review dataset (from Kaggle): 1000 records, 2 fields
 3. BERT model for Sentiment Analysis
 4. Comparison of performance metrics
 5. Gradio for Visual representation
+
+## Results
+### Naïve Bayesian
+![Naive Bayesian Result](/naive_bayesian_result.png)
+
+### BERT
+![BERT Result](/bert_result.png)
+
+BERT outperformed Naive Bayes in terms of accuracy and context understanding, especially in handling nuanced language.
+
+### Gradio Visualization
+![BERT Result](/gradio.png)
+
+Developed an interactive Gradio app to visualize predictions. First implemented this for the pre-trained sentiment analysis model from Hugging Face (already pre-trained on a general dataset like IMDb). Then, implemented this for the model fine-tuned using our training set.
